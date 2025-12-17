@@ -32,8 +32,10 @@ Key aspects include:
   Citation metadata for academic reuse.
 
 
-## Requirements
+## Requirements and Code Running 
 
 - Python 3.9 or newer
 - This code was directly run in IDLE
 - Common scientific Python libraries (e.g., `numpy`, `networkx`, `pandas`, `matplotlib`)
+- Line 9 toggle BATCH_MODE between 0 and 1 to run one run or in batches (set BATCH_SEEDS_STR range for number of runs in batch)
+- Line 20 toggle NO_PLOT to show or hide animation during running
