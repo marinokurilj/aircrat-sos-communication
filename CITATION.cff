@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated master's thesis."
+title: "Aviation System of Systems: Implications of Inter-Aircraft Communication"
+author: Marino Kurilj
+affiliation: "Linköping University, Sweden"
+year: 2025
+url: "https://github.com/marinokurilj/aircrat-sos-communication"
